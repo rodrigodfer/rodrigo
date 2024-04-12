@@ -1,12 +1,9 @@
 ### Olá! Me chamo Rodrigo Ferreira, sou entusiasta de comunicação e programação. 
 
 • Estudante de Radio e TV na UFRJ
-• JavaScript, Java, Python e SQL
-• Outras: HTML, CSS, RESTful APIs
+• HTML, CSS, Javascript e evoluindo
 
-## Contato
-
-• Email: seuemail@example.com
+#
 • LinkedIn: [linkedin.com/in/seuperfil](https://www.linkedin.com/in/seuperfil/)
 • Twitter: [@seutwitter](https://twitter.com/seutwitter)
 
