@@ -1,4 +1,4 @@
-## Olá! Me chamo Rodrigo Ferreira, sou entusiasta de comunicação e programação. 
+### Olá! Me chamo Rodrigo Ferreira, sou entusiasta de comunicação e programação. 
 
 • Estudante de Radio e TV na UFRJ
 • JavaScript, Java, Python e SQL
